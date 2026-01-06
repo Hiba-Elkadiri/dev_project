@@ -1,4 +1,4 @@
-Application de Vente de Costumes – Flutter & Laravel
+  Application de Vente de Produits – Flutter & Laravel
 Ce projet consiste à développer une application e-commerce de vente de costumes, basée sur une architecture moderne client–serveur.
 
 🧩 Architecture
